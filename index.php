@@ -18,8 +18,13 @@ and open the template in the editor.
          //echo ค่าตัวแปร
          foreach ($array1 as $k => $v) {
                echo 'key :'.$k.'  / '.$v.'<br>'; 
+               
             }
-    
+         $array2=['d','e','f'];
+         print_r($array2);
+         echo '<hr>';
+         
+         
 
         ?>
     </body>
